@@ -1,0 +1,19 @@
+{
+  "name": "assingment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --config ./jest-config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "mongoose": "^5.9.3",
+    "supertest": "^4.0.2"
+  }
+}
