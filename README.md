@@ -51,4 +51,3 @@
             [localhost/hello?name=James](http://localhost/hello?name=James)
         - API call with out stranger
             [localhost/hello](http://localhost/hello)
-            
